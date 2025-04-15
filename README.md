@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/4xbNlv3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Yln4EQl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 VIDEO created with Apple Screen Record
 
